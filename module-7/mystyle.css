@@ -1,0 +1,12 @@
+.whitecircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+}
